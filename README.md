@@ -1,5 +1,3 @@
-# PROG8051_Sec1_Group5
-
 # Expense Tracker Application
 
 ## Description
